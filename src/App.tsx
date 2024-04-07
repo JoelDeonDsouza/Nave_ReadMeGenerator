@@ -1,12 +1,14 @@
 import React from "react";
 // component //
-import { Nav } from "./Components";
+import { Nav, Main } from "./Components";
 
 function App() {
   return (
     <>
       {/* nav */}
       <Nav />
+      {/* main */}
+      <Main />
     </>
   );
 }

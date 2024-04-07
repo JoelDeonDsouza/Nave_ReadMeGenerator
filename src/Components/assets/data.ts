@@ -15,7 +15,9 @@ export const templates = [
   ## Description
   
   [Description about the project]
-  
+
+  ![App Screenshot](https://i.ibb.co/7rNWTkp/not-found.jpg)
+
   ## Installation
 
   \`\`\`bash
@@ -33,7 +35,6 @@ export const templates = [
   \`\`\`bash
   npm start
   \`\`\`
-
   `,
   },
   {
@@ -66,9 +67,12 @@ export const templates = [
     icon: AiFillGithub,
     content: `# Project Name
   
-  ## Description
+## Description
   
   [Description about the project]
+
+![App Screenshot](https://i.ibb.co/P4qryjv/not-found-2384304-1280.jpg)
+
 ## Tech Stack
 
   **Client:** [Frameworks]
